@@ -1,0 +1,8 @@
+{
+  "name": "cdk_generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/aShunyaOtsuki/cdk_generator.git",
+  "author": "aShunyaOtuski <shunya.otsuki@access-company.com>",
+  "license": "MIT"
+}
