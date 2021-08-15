@@ -6,6 +6,7 @@
   "author": "aShunyaOtuski <shunya.otsuki@access-company.com>",
   "license": "MIT",
   "dependencies": {
-    "@types/node": "^16.6.1"
+    "@types/node": "^16.6.1",
+    "typescript": "^4.3.5"
   }
 }
