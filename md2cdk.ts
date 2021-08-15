@@ -6,4 +6,6 @@ fs.readFile('./table.md', "utf-8", (err, file) => {
     process.exit(1);
   }
   console.log(file); // read table.md as string
+  const output = "console.log('test')"
+  fs.writeFileSync('./cdkSample/lib/DynamoDBStack.ts', output)
 })
