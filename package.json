@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/aShunyaOtsuki/cdk_generator.git",
   "author": "aShunyaOtuski <shunya.otsuki@access-company.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^16.6.1"
+  }
 }
