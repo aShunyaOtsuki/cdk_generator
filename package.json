@@ -5,6 +5,9 @@
   "repository": "https://github.com/aShunyaOtsuki/cdk_generator.git",
   "author": "aShunyaOtuski <shunya.otsuki@access-company.com>",
   "license": "MIT",
+  "scripts": {
+    "gen": "tsc md2cdk.ts && node md2cdk.js"
+  },
   "dependencies": {
     "@types/node": "^16.6.1",
     "typescript": "^4.3.5"
