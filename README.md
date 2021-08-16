@@ -16,6 +16,6 @@ markdown で作成した DynamoDB の仕様書から、cdk でのリソース定
   - [x] 必要なデータを調査する
 - [x] markdown を index.ts 上で開く
 - [x] index.ts で DynamoDBStack.ts のファイルを作成する
-- [ ] markdown -> DynamoDB を整形する
-  - [ ] 必要なデータを調査する
-  - [ ] markdown を修正する
+- [x] markdown -> DynamoDB を整形する
+  - [x] 必要なデータを調査する
+  - [x] markdown を修正する
